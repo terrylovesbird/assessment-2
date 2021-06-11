@@ -47,6 +47,7 @@ Your application should allow:
   - customer *by id*
 - Adding a new customer
   - You should not have an initial list of video rentals assigned to a newly created customer
+  - **IMPORTANT:** Customers should not be able to have the same id!!!
 - Exiting the application
 
 Be sure to give careful consideration into what data structures & data types (classes) you might need to use in your application logic. Also, your application should always keep the CSV data files updated! You need data records to be backed up in a file, in case your application were to crash (and lose data internally).
